@@ -1,9 +1,7 @@
 ---
-name: 'Pull Request Default Template'
-about: 'Default template for a Pull Request'
 title: 'Please enter a really cool title'
 labels: 'triage'
-assignees: 'staceb'
+assignees: '@staceb'
 ---
 
 ## Default Template 
